@@ -1,0 +1,5 @@
+{
+    "name": "kdragon",
+    "fetch": "https://github.com/kdrag0n/colorkt",
+    "revision": "refs/heads/main"
+}
